@@ -77,14 +77,6 @@ export const education: EducationEntry[] = [
 			"Practicing AI-assisted coding workflows",
 		],
 	},
-	{
-		// TODO: replace with your real academic background
-		institution: "Your university / college",
-		qualification: "Your degree or examination",
-		subject: "Your subject or group",
-		period: "Year — Year",
-		status: "Details to be added",
-	},
 ];
 
 export const experience: ExperienceEntry[] = [
